@@ -173,7 +173,7 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks:**
   1. Deploy the frontend on Netlify or Vercel.
      - **Reading:** [Netlify Deployment Guide](https://docs.netlify.com/)
-     - **Video:** [Deploying React Apps](https://www.youtube.com/watch?v=YdYyYMFPa44)
+     - **Video:** [Deploying React Apps](https://www.youtube.com/watch?v=eSeBVcKZx9Y)
   2. Deploy the backend on Render or AWS.
      - **Reading:** [Render Deployment Guide](https://render.com/docs)
      - **Video:** [Node.js Deployment Tutorial](https://www.youtube.com/watch?v=l134cBAJCuc)
@@ -186,16 +186,12 @@ This project is structured to ensure a systematic and incremental development pr
 
 ---
 
-## **Features**
-1. **User Authentication:** Secure login and signup.
-2. **Expense Management:** Add, edit, and delete transactions.
-3. **Visual Insights:** Graphs for spending patterns.
-4. **Responsive Design:** Works seamlessly on all devices.
-
----
-
 ## Screenshots
-
+![Screenshot (346)](https://github.com/user-attachments/assets/c0f71579-b72d-4a64-ae09-9e6c2a916dd7)
+![Screenshot (347)](https://github.com/user-attachments/assets/e229e474-2e0f-4d5c-9b3c-5cec86ffb6e8)
+![Screenshot (348)](https://github.com/user-attachments/assets/1cc8f96d-f1fc-481c-99f3-1f88a45ff123)
+![Screenshot (350)](https://github.com/user-attachments/assets/d02692e9-d1fb-4ea2-8e34-1701275d1d1a)
+![Screenshot (345)](https://github.com/user-attachments/assets/c836b520-bb99-4284-a5ac-c54a86faa66b)
 
 ---
 
