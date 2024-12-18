@@ -1,3 +1,4 @@
+---
 # **Project Name: Expense Tracker Web App**
 
 The **Expense Tracker Web App** is a full-stack MERN application designed to help users track their expenses and manage budgets efficiently. The app provides a user-friendly interface for recording transactions, viewing expense reports, and analyzing spending patterns.
