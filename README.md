@@ -90,7 +90,7 @@ The app follows a traditional MERN architecture:
 
 ---
 
-### Flow Chart
+## Flow Chart
 ![image](https://github.com/user-attachments/assets/3ee1a391-29f2-408e-8031-cfe77a0873d9)
 
 ---
