@@ -110,7 +110,7 @@ This project is structured to ensure a systematic and incremental development pr
      - **Video:** [React Basics](https://www.youtube.com/watch?v=SqcY0GlETPk)
   3. Set up Material-UI for styling.
      - **Reading:** [Material-UI Docs](https://mui.com/getting-started/usage/)
-     - **Video:** [Material-UI Tutorial](https://www.youtube.com/watch?v=1uN6iNf7C3I)
+     - **Video:** [Material-UI Tutorial](https://www.youtube.com/watch?v=Xoz31I1FuiY&t=100s)
 
 - **Deliverables:**
   - Functional frontend with basic navigation and placeholder components.
