@@ -146,7 +146,7 @@ This project is structured to ensure a systematic and incremental development pr
      - **Video:** [Building REST APIs](https://www.youtube.com/watch?v=pKd0Rpw7O48)
   3. Create expense tracking UI.
      - **Reading:** [Material-UI Components](https://mui.com/getting-started/usage/)
-     - **Video:** [React Form Handling](https://www.youtube.com/watch?v=neHpLIKPp5M)
+     - **Video:** [Material UI](https://www.youtube.com/watch?v=CwAr9cUJA6A)
 
 - **Deliverables:**
   - Expense management functionality.
