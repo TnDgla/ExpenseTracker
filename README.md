@@ -160,7 +160,7 @@ This project is structured to ensure a systematic and incremental development pr
      - **Reading:** [Chart.js Documentation](https://www.chartjs.org/docs/latest/)
      - **Video:** [React Chart.js Tutorial](https://www.youtube.com/watch?v=Ly-9VTXJlnA)
   2. Add monthly and category-wise expense summaries.
-     - **Reading:** [React State Management](https://reactjs.org/docs/state-and-lifecycle.html)
+     - **Reading:** [React State Management](https://react.dev/learn/lifecycle-of-reactive-effects)
      - **Video:** [State Management in React](https://www.youtube.com/watch?v=35lXWvCuM8o)
 
 - **Deliverables:**
