@@ -90,6 +90,11 @@ The app follows a traditional MERN architecture:
 
 ---
 
+### Flow Chart
+![image](https://github.com/user-attachments/assets/3ee1a391-29f2-408e-8031-cfe77a0873d9)
+
+---
+
 ### **Project Structure for Feature Implementation**
 This project is structured to ensure a systematic and incremental development process. Each week builds upon the previous deliverables, enabling a smooth transition from basic to advanced functionalities.
 
